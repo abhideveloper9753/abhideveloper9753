@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋
 <b>,Abhi gautam  </b></h1>
 
-<h2 align="center"><b>I'm a Passionate Frontend 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and Problem solver </b></h2>
+<h2 align="center"><b>I'm a Passionate Full stack 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and Problem solver </b></h2>
 
 <h4 align="center"><b> Full stack Developer | Problem-solver | JavaScript | React-Js | Tailwind CSS | Version control| Figma | HTML5 | CSS3 |HUSTLER @19
  </b></h4>
