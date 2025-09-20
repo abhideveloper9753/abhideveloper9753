@@ -22,9 +22,8 @@
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/abhideveloper9753/ "GitHub Profile").
 <!-- - ⚡ For Fun **Games, Music, Entertainment**. -->
 <!-- - 📫 How to reach me **mayanksaini9389@gmail.com**.
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mayank-saini-b91906202/ "LinkedIn Profile").
-- 🔗 Connect Me on [**Twitter**](https://twitter.com/MayankS09985836?s=09/ "Twitter Profile").
-- 🔗 Connect Me on  [**Hashnode**](https://hashnode.com/@mayanksaini980/ "hashnode profile"). -->
+- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/abhi-gautam-246260257/).
+- 🔗 Connect Me on [**Twitter**](https://x.com/AbhiGau90208112).
 
 
 <!---## 🌐 Web Development Projects
@@ -78,16 +77,16 @@
 ## ⚙️ Things I work with:
 
 - **OS**: Windows 11.
-- **Laptop**: Hp probook  650g.
+- **Laptop**: Asus Vivobook 16.
 - **Browser**: Google chrome.
 - **IDE**: VSCode - The best editor out there.
 
 ## 📧 Connect with me:
 <!-- 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-saini-b91906202 "@mayank")
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/Mayanksaini1234 "@mayank")
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( mayanksaini9389@gmail.com "Email")
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://twitter.com/MayankS09985836?s=09 "@mayank") -->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-gautam-246260257/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhideveloper9753/abhideveloper9753)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( abhigautam1357@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://x.com/AbhiGau90208112) -->
 <!-- <div align="center"> -->
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
