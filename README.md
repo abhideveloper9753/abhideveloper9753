@@ -1,96 +1,92 @@
-
 ![GitHub Banner](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 
+<h1 align="center">Hi there 👋, I'm <b>Abhi Gautam</b></h1>
 
-<h1 align="center">Hi there 👋
-<b>,Abhi gautam  </b></h1>
+<h2 align="center"><b>A Passionate Full Stack Developer & Problem Solver</b></h2>
 
-<h2 align="center"><b>I'm a Passionate Full stack 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and Problem solver </b></h2>
+<h4 align="center">
+  🚀 Full Stack Developer | 🧩 Problem Solver | ⚡ Frontend Specialist | 💻 DSA in C++ | 🌐 MERN Learner
+</h4>
 
-<h4 align="center"><b> Full stack Developer | Problem-solver | JavaScript | React-Js | Tailwind CSS | Version control| Figma | HTML5 | CSS3 |HUSTLER @19 | PHP | MYsql | DSA in C++
- </b></h4>
+---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me  
 
+- 🥋 Passionate about **Programming** and **Problem-Solving**.  
+- 👨‍💻 Exploring and learning **new technologies** to grow as a developer.  
+- 👁‍🗨 Unique trait → Ability to **learn quickly** and implement solutions to **real-time problems**.  
+- 📘 Currently pursuing **MCA in Information Technology** at **JIIT Noida**.  
+- 🌱 Currently learning **MERN Stack Development**.  
+- 👯 Open to collaborate on **Open-Source Projects**.  
+- 🔭 Worked on projects like:  
+  - **Hotel Booking Website** (HTML, CSS, JavaScript, Bootstrap)  
+  - **Blogify** – A Full-Stack Blogging Platform (Django, Python, MySQL, HTML, CSS, JavaScript)  
+- 👨🏻‍💻 Check out my repositories here: [**GitHub Profile**](https://github.com/abhideveloper9753)
 
-- 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
-- 👨‍💻 Love to learn new technologies and to explore new set of areas.
-- 👁‍🗨 What's unique about me → Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
-- 🔭 I’m Currently Studing in **2nd Year**.
-- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
-- 👯 I’m looking to collaborate on **Open-Source Projects**.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/abhideveloper9753/ "GitHub Profile").
-<!-- - ⚡ For Fun **Games, Music, Entertainment**. -->
-<!-- - 📫 How to reach me **mayanksaini9389@gmail.com**.
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/abhi-gautam-246260257/).
-- 🔗 Connect Me on [**Twitter**](https://x.com/AbhiGau90208112).
+---
 
+## 🚀 Tech Stack  
 
-<!---## 🌐 Web Development Projects
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-| Project List | Languages |
-| --- | --- |
-| [**🔗 GYM WEBSITE**](https://github.com/Mayanksaini1234/Gym-website) | HTML, CSS |
+### ⚙️ Backend  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
 
-## 👨‍💻 Software Development Projects
+### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-| Project List | Languages |
-| --- | --- |
-| [**🔗 Number guessing game**](https://github.com/Mayanksaini1234/Number-guessing-game) |C|
+### 💡 Programming & DSA  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
--->
-## 🚀 Languages:
+### 🔧 Tools & Platforms  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-<code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
-<code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3"></code>
-<code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
-<code><img height="27" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" title="C"></code>
-<code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" title="C++"></code>
-<code><img height="27" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" title="Markdown"></code>
+---
 
-## 🔮 Tools:
+## ⚡ GitHub Stats  
 
-<code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="GIT"></code>
-<code><img height="27" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" title="Linux"></code>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhideveloper9753&show_icons=true&theme=react" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhideveloper9753&show_icons=true&theme=react&layout=compact" alt="Top Languages" height="160px"/>
+</p>  
 
+---
 
-## ⚡ GitHub Stats & Languages
+## ☄️ Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhideveloper9753&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhideveloper9753&show_icons=true&theme=react" alt="abhideveloper9753" /></p>
+---
 
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhideveloper9753&theme=tokyo-night&radius=16" alt="GitHub Activity Graph"/>
+</p>  
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhideveloper9753&show_icons=true&theme=react" alt="abhideveloper9753" /></p>
+## 📧 Connect with Me  
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-gautam-246260257/)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhideveloper9753)  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigautam1357@gmail.com)  
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhiGau90208112)  
 
-## ☄️ GitHub Streaks
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhideveloper9753&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats" alt="abhideveloper9753" /></p>
+---
 
+⭐️ Show some ❤️ by starring my repositories!  
 
-## 📈 GitHub Contribution Graph
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=abhideveloper9753&theme=tokyo-night&radius=16">
-  </a> 
-
-
-
-## ⚙️ Things I work with:
-
-- **OS**: Windows 11.
-- **Laptop**: Asus Vivobook 16.
-- **Browser**: Google chrome.
-- **IDE**: VSCode - The best editor out there.
-
-## 📧 Connect with me:
-<!-- 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-gautam-246260257/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhideveloper9753/abhideveloper9753)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( abhigautam1357@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://x.com/AbhiGau90208112) -->
-<!-- <div align="center"> -->
-
-### Show some ❤️ by starring ⭐ some of the repositories!
-
-</div>
 
 
